@@ -1,2 +1,3 @@
-# Simple-Slider
-Simple  Vanilla JS Slider
+# Beginner-js-projects
+Beginner JavaScript Applications
+
